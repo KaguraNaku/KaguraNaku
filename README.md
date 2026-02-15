@@ -1,5 +1,5 @@
 ## One Equation Refactors The World.
-![Banner](./emilia.png)
+![Banner](./emilia.jpg)
 <!--
 **KaguraNaku/KaguraNaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
